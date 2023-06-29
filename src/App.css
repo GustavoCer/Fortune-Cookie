@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  align-items: center;
+  text-align: center;
+}
+
+.title {
+  background-color:rgba(255, 255, 255, 0.635);
+  padding: 30px;
+  font-family: 'PT Serif', serif;
+  font-size: 60px;
+}
+
+.info {
+  background-color: rgba(255, 255, 255, 0.205);
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+}
